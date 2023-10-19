@@ -1,5 +1,5 @@
 # Github profile scraper
-Interested in using this scraper? Get it here: [Github profile scraper](https://apify.com/curious_coder/github-scraper)
+Interested in using this scraper? Get it here: [Github profile scraper](https://apify.com/curious_coder/github-scraper?fpr=ve081&fp_sid=github_github-scraper)
 ## How it works
 
 
